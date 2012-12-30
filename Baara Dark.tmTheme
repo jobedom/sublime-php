@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>http://chriskempson.com</string>
+	<string>http://1500baudios.com</string>
 	<key>name</key>
-	<string>Tomorrow Night</string>
+	<string>Baara Dark</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -420,6 +420,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>F96223EB-1A60-4617-92F3-D24D4F13DB02</string>
+	<string>F96223EB-1A60-4617-92F3-D24D4F13DB42</string>
 </dict>
 </plist>
