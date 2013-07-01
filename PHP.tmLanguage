@@ -903,7 +903,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>\b(break|c(ase|ontinue)|as|d(e(clare|fault)|ie|o)|e(lse(if)?|nd(declare|for(each)?|if|switch|while)|xit)|for(each)?|if|return|switch|use|while)\b</string>
+					<string>\b(break|c(ase|ontinue)|as|d(e(clare|fault)|ie|o)|e(lse(if)?|nd(declare|for(each)?|if|switch|while)|xit)|for(each)?|if|return|switch|use|while|yield)\b</string>
 					<key>name</key>
 					<string>keyword.control.php</string>
 				</dict>
@@ -961,7 +961,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>\b(catch|try|throw|exception)\b</string>
+					<string>\b(catch|finally|try|throw|exception)\b</string>
 					<key>name</key>
 					<string>keyword.control.exception.php</string>
 				</dict>
