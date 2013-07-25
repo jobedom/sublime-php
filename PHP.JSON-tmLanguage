@@ -530,7 +530,7 @@
                     ]
                 },
                 {
-                    "match": "\\b(break|c(ase|ontinue)|as|d(e(clare|fault)|ie|o)|e(lse(if)?|nd(declare|for(each)?|if|switch|while)|xit)|for(each)?|if|return|switch|use|while)\\b",
+                    "match": "\\b(break|c(ase|ontinue)|as|d(e(clare|fault)|ie|o)|e(lse(if)?|nd(declare|for(each)?|if|switch|while)|xit)|for(each)?|if|return|switch|use|while|yield)\\b",
                     "name": "keyword.control.php"
                 },
                 {
@@ -567,7 +567,7 @@
                     "name": "meta.catch.php"
                 },
                 {
-                    "match": "\\b(catch|try|throw|exception)\\b",
+                    "match": "\\b(catch|finally|try|throw|exception)\\b",
                     "name": "keyword.control.exception.php"
                 },
                 {
